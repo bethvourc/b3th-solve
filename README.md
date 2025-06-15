@@ -1,6 +1,6 @@
 # 📦 b3th-solve
 
-> **b3th-solve** is an AI-powered image-based math tutor that solves or evaluates handwritten or printed math problems directly from images using Google Cloud Vision OCR and Google Gemini (Generative AI).
+> **b3th-solve** is an AI-powered image-based math tutor that solves or evaluates handwritten or printed math problems directly from images using Google Cloud Vision OCR and AI.
 
 ![npm](https://img.shields.io/npm/v/b3th-solve)
 ![license](https://img.shields.io/npm/l/b3th-solve)
@@ -11,7 +11,7 @@
 ## ✨ Features
 
 - 🔍 OCR text extraction from math problem images using Google Vision API
-- 🤖 Step-by-step math problem solving with Gemini AI (`QTAR` mode)
+- 🤖 Step-by-step math problem solving (`QTAR` mode)
 - ✅ Feedback and correction for student work using AI (`CTAR` mode)
 - 🖼️ Generates annotated solution images using canvas
 - 🛠️ Works with Node.js or React Native/Expo environments
