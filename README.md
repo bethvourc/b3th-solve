@@ -1,10 +1,10 @@
-# 📦 b3th-math-solver
+# 📦 b3th-solve
 
-> **b3th-math-solver** is an AI-powered image-based math tutor that solves or evaluates handwritten or printed math problems directly from images using Google Cloud Vision OCR and Google Gemini (Generative AI).
+> **b3th-solve** is an AI-powered image-based math tutor that solves or evaluates handwritten or printed math problems directly from images using Google Cloud Vision OCR and Google Gemini (Generative AI).
 
-![npm](https://img.shields.io/npm/v/b3th-math-solver)
-![license](https://img.shields.io/npm/l/b3th-math-solver)
-![downloads](https://img.shields.io/npm/dw/b3th-math-solver)
+![npm](https://img.shields.io/npm/v/b3th-solve)
+![license](https://img.shields.io/npm/l/b3th-solve)
+![downloads](https://img.shields.io/npm/dw/b3th-solve)
 
 ---
 
@@ -21,13 +21,13 @@
 ## 📦 Installation
 
 ```bash
-npm install b3th-math-solver
+npm install b3th-solve
 ```
 
 or with Yarn:
 
 ```bash
-yarn install b3th-math-solver
+yarn install b3th-solve
 ```
 
 ---
@@ -37,7 +37,7 @@ yarn install b3th-math-solver
 ### Solve a Math Problem from an Image
 
 ```ts
-import { processImageQuestion } from "b3th-math-solver";
+import { processImageQuestion } from "b3th-solve";
 import Canvas from "react-native-canvas"; // or @napi-rs/canvas in Node.js
 
 const imagePath = "path/to/your/image.png";
@@ -130,7 +130,7 @@ Licensed under the [ISC License](https://opensource.org/licenses/ISC).
 
 Developed by [Bethvour Chke](mailto:bethvourc@gmail.com)
 
-For issues, suggestions, or contributions, please open an issue or PR on the [GitHub repo](https://github.com/bethvourc/b3th-math-solver).
+For issues, suggestions, or contributions, please open an issue or PR on the [GitHub repo](https://github.com/bethvourc/b3th-solve).
 
 ---
 
