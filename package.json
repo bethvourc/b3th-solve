@@ -1,0 +1,29 @@
+{
+  "name": "b3th-math-solver",
+  "version": "1.0.0",
+  "description": "Virtual Math Tutor",
+  "license": "ISC",
+  "author": "Bethvour",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx solveAlgebra.tsx"
+  },
+  "dependencies": {
+    "@google-cloud/vision": "^4.3.2",
+    "@google/generative-ai": "^0.21.0",
+    "@napi-rs/canvas": "^0.1.66",
+    "@types/react-native-canvas": "^0.1.14",
+    "axios": "^1.7.9",
+    "dotenv": "^16.5.0",
+    "expo": "^52.0.29",
+    "expo-file-system": "~18.0.9",
+    "expo-image-manipulator": "~13.0.6",
+    "react": "^18.3.1",
+    "react-native-canvas": "^0.1.40",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.2"
+  }
+}
