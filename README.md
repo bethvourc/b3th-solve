@@ -128,7 +128,7 @@ Licensed under the [ISC License](https://opensource.org/licenses/ISC).
 
 ## 👨‍💻 Author
 
-Developed by [Bethvour Chke](mailto:bethvourc@gmail.com)
+Developed by [Bethvour Chike](mailto:bethvourc@gmail.com)
 
 For issues, suggestions, or contributions, please open an issue or PR on the [GitHub repo](https://github.com/bethvourc/b3th-solve).
 
